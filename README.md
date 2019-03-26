@@ -1,6 +1,6 @@
 # Text2Gloss
 
-This repo contains the models for the Text2Gloss proposed in "Sign Language Production using Neural Machine Translation and Generative Adversarial Networks (BMVC 2019)".
+This repo contains the models for the Text2Gloss proposed in "Sign Language Production using Neural Machine Translation and Generative Adversarial Networks (BMVC 2018)".
 
 The models were trained using [an earlier version of Luong et al.'s Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt/tree/tf-1.2). 
 
