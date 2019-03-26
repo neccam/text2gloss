@@ -17,7 +17,7 @@ python -m nmt --out_dir=<your_model_dir> --inference_input_file=<input_video_pat
 
 ## Reference
 
-Please cite the paper below if you use this code in your research:
+Please cite the paper below if you use this model in your research:
 
     @inproceedings{stoll2018sign,
       author = {Stephanie Stoll and Necati Cihan Camgoz and Simon Hadfield and Richard Bowden},
