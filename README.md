@@ -7,6 +7,7 @@ The models were trained using [an earlier version of Luong et al.'s Neural Machi
 ## Requirements
 * Download and extract [RWTH-PHOENIX-Weather 2014 T: Parallel Corpus of Sign Language Video, Gloss and Translation](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)
 * Download and install Tensorflow 1.3.0+ 
+* Download [TensorFlow NMT](https://github.com/tensorflow/nmt/tree/tf-1.2) library.
 * Python 2.7
 
 ### Inference Sample Usage
