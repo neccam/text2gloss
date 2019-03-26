@@ -20,7 +20,7 @@ python -m nmt --out_dir=<your_model_dir> --inference_input_file=<input_video_pat
 Please cite the paper below if you use this model in your research:
 
     @inproceedings{stoll2018sign,
-      author = {Stephanie Stoll and Necati Cihan Camgoz and Simon Hadfield and Richard Bowden},
+      author = {[Stephanie Stoll and Necati Cihan Camgoz and Simon Hadfield and Richard Bowden](http://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)},
       title = {Sign Language Production using Neural Machine Translation and Generative Adversarial Networks},
       booktitle = {British Machine Vision Conference (BMVC)},
       year = {2018}
