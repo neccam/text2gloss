@@ -1,6 +1,6 @@
 # Text2Gloss
 
-This repo contains the models for the Text2Gloss proposed in "Sign Language Production using Neural Machine Translation and Generative Adversarial Networks (BMVC 2018)".
+This repo contains the models for the Text2Gloss proposed in "[Sign Language Production using Neural Machine Translation and Generative Adversarial Networks (BMVC 2018)](http://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)".
 
 The models were trained using [an earlier version of Luong et al.'s Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt/tree/tf-1.2). 
 
@@ -20,7 +20,7 @@ python -m nmt --out_dir=<your_model_dir> --inference_input_file=<input_video_pat
 Please cite the paper below if you use this model in your research:
 
     @inproceedings{stoll2018sign,
-      author = {[Stephanie Stoll and Necati Cihan Camgoz and Simon Hadfield and Richard Bowden](http://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)},
+      author = {Stephanie Stoll and Necati Cihan Camgoz and Simon Hadfield and Richard Bowden},
       title = {Sign Language Production using Neural Machine Translation and Generative Adversarial Networks},
       booktitle = {British Machine Vision Conference (BMVC)},
       year = {2018}
