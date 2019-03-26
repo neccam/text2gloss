@@ -5,7 +5,7 @@ This repo contains the models for the Text2Gloss proposed in "Sign Language Prod
 The models were trained using [an earlier version of Luong et al.'s Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt/tree/tf-1.2). 
 
 ## Requirements
-* Download and extract [RWTH-PHOENIX-Weather 2014 T: Parallel Corpus of Sign Language Video, Gloss and Translation](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) and then resize the images to 227x227
+* Download and extract [RWTH-PHOENIX-Weather 2014 T: Parallel Corpus of Sign Language Video, Gloss and Translation](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)
 * Download and install Tensorflow 1.3.0+ 
 * Python 2.7
 
