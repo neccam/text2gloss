@@ -2,7 +2,7 @@
 
 This repo contains the models for the Text2Gloss proposed in "[Sign Language Production using Neural Machine Translation and Generative Adversarial Networks (BMVC 2018)](http://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)".
 
-The models were trained using [an earlier version of Luong et al.'s Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt/tree/tf-1.2). 
+The models were trained using [an earlier version of Luong et al.'s Neural Machine Translation Code](https://github.com/tensorflow/nmt/tree/tf-1.2). 
 
 ## Requirements
 * Download and extract [RWTH-PHOENIX-Weather 2014 T: Parallel Corpus of Sign Language Video, Gloss and Translation](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)
